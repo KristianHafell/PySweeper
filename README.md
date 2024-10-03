@@ -26,7 +26,7 @@ PySweeper is a Python implementation of the classic Minesweeper game.
 
 Run the game using the following command:
 ```sh
-python main.py
+python index.py
 ```
 
 ## Contributing
